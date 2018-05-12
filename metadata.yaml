@@ -1,0 +1,31 @@
+_repo: William-Gilbert-and-Terrestial-Magnetism-in-the-Time-of-Queen-ElizabethA-Discourse_45893
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45893-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thompson, Silvanus P. (Silvanus Phillips)
+    alias: Thompson, Silvanus Phillips
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '36308'
+    url: http://www.gutenberg.org/2009/agents/36308
+    wikipedia: http://en.wikipedia.org/wiki/Silvanus_P._Thompson
+description: ''
+gutenberg_issued: '2014-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magnetism -- History'
+- !lcsh 'Gilbert, William, 1544-1603'
+- !lcc 'QC'
+title: 'William Gilbert, and Terrestial Magnetism in the Time of Queen Elizabeth
+
+  A Discourse'
+url: http://www.gutenberg.org/ebooks/45893
