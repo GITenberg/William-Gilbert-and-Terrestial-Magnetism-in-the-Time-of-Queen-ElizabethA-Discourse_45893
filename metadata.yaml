@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36308
     wikipedia: http://en.wikipedia.org/wiki/Silvanus_P._Thompson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45893#William-Gilbert-and-Terrestial-Magnetism-in-the-Time-of-Queen-ElizabethA-Discourse
 gutenberg_issued: '2014-06-05'
 gutenberg_type: Text
 identifiers:
